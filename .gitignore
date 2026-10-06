@@ -1,0 +1,4 @@
+# ignore all .shp, .tif, and .gdb files for large spatial data sets
+*.shp
+*.tif
+*.gdb
